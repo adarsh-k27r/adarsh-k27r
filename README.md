@@ -6,23 +6,17 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=adarsh-k27r.adarsh-k27r&left_text=Profile%20Visitors"  />
 </div>
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=adarsh-k27r&locale=en&mode=daily&theme=blue-green&hide_border=true&border_radius=5" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adarsh-k27r&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=blue-green&hide_border=false" height="250" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=adarsh-k27r&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5" height="175" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adarsh-k27r&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=default&hide_border=true" height="250" alt="languages graph"  />
 </div>
 
 ###
@@ -141,11 +135,5 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/adarsh-k27r/adarsh-k27r/output/snake.svg" alt="Snake animation" />
 
 ###
